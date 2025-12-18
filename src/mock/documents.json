@@ -1,0 +1,6 @@
+[
+  { "id": "d1", "type": "Financial", "name": "P&L 2024", "status": "Uploaded" },
+  { "id": "d2", "type": "Legal", "name": "Cap Table", "status": "Missing" },
+  { "id": "d3", "type": "Product", "name": "Pitch Deck", "status": "Uploaded" },
+  { "id": "d4", "type": "Market", "name": "Expansion Plan", "status": "Needs review" }
+]

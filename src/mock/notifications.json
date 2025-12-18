@@ -1,0 +1,4 @@
+[
+  { "id": "n1", "text": "Complete your funding route selection", "type": "action" },
+  { "id": "n2", "text": "New investor intro request response", "type": "info" }
+]

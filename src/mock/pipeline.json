@@ -1,0 +1,14 @@
+[
+  {
+    "id": "p1",
+    "investorId": "inv-01",
+    "status": "Intro requested",
+    "lastUpdate": "2025-12-01"
+  },
+  {
+    "id": "p2",
+    "investorId": "inv-02",
+    "status": "Meeting scheduled",
+    "lastUpdate": "2025-12-05"
+  }
+]
