@@ -1,0 +1,3 @@
+# Strata Platform
+
+Initial commit.
