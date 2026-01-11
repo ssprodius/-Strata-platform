@@ -1,0 +1,29 @@
+[
+  {
+    "id": "debt",
+    "name": "Debt Financing",
+    "speed": "Fast",
+    "dilution": "None",
+    "control": "Founder retains full control",
+    "cost": "5–7% interest",
+    "bestFor": "Predictable cash flows"
+  },
+  {
+    "id": "crowdfunding",
+    "name": "Equity Crowdfunding",
+    "speed": "Medium",
+    "dilution": "Low",
+    "control": "Shared with many small investors",
+    "cost": "5–8% platform & legal fees",
+    "bestFor": "Community-driven growth"
+  },
+  {
+    "id": "vc-minority",
+    "name": "VC-like Minority Investment",
+    "speed": "Medium",
+    "dilution": "5–15%",
+    "control": "Founder-led",
+    "cost": "Carry 5–7%, no control covenants",
+    "bestFor": "Strategic growth & expansion"
+  }
+]

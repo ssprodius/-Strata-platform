@@ -1,0 +1,9 @@
+[
+  { "id": "r1", "title": "Prepare investor materials", "durationWeeks": 2, "completed": true },
+  { "id": "r2", "title": "Clean cap table & structure", "durationWeeks": 1, "completed": true },
+  { "id": "r3", "title": "Choose funding route(s)", "durationWeeks": 1, "completed": false },
+  { "id": "r4", "title": "Build investor target list", "durationWeeks": 2, "completed": false },
+  { "id": "r5", "title": "Intro & meetings", "durationWeeks": 4, "completed": false },
+  { "id": "r6", "title": "Term sheet negotiation", "durationWeeks": 2, "completed": false },
+  { "id": "r7", "title": "Due diligence & closing", "durationWeeks": 3, "completed": false }
+]

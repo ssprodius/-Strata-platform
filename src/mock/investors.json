@@ -1,0 +1,29 @@
+[
+  {
+    "id": "inv-01",
+    "name": "Aurora Growth Fund",
+    "type": "Fund",
+    "ticket": "$1–3M",
+    "sectors": ["B2B SaaS", "FinTech"],
+    "geo": ["EU"],
+    "valueAdd": "Growth strategy & follow-on capital"
+  },
+  {
+    "id": "inv-02",
+    "name": "North Angel Syndicate",
+    "type": "Angel",
+    "ticket": "$250–750K",
+    "sectors": ["SaaS", "Marketplaces"],
+    "geo": ["EU", "UK"],
+    "valueAdd": "Founder coaching & intros"
+  },
+  {
+    "id": "inv-03",
+    "name": "ScaleOps Advisors",
+    "type": "Advisor",
+    "ticket": "N/A",
+    "sectors": ["Operations", "Expansion"],
+    "geo": ["Global"],
+    "valueAdd": "International expansion support"
+  }
+]
