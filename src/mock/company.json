@@ -1,0 +1,23 @@
+{
+  "id": "company-001",
+  "name": "NordicSupply",
+  "country": "Netherlands",
+  "website": "https://nordicsupply.io",
+  "sector": "B2B SaaS",
+  "stage": "Growth",
+  "arrRange": "$3–5M",
+  "growthYoY": "42%",
+  "teamSize": 28,
+  "markets": ["NL", "DE", "UK"],
+  "pitchSummary": "B2B SaaS platform optimizing procurement workflows for mid-market manufacturers.",
+  "fundingTarget": 6000000,
+  "preferredRoutes": ["VC-like minority", "Debt"],
+  "targetDilution": "5–10%",
+  "readiness": {
+    "companyProfile": true,
+    "metrics": true,
+    "documents": false,
+    "roadmap": false,
+    "investorStrategy": false
+  }
+}
